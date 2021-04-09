@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffRowe58
 - 👀 I’m interested in Programming, BBQ, music, good audio equipment, and a lot more.
 - 🌱 I’m currently learning Full Stack Web Development through Code Up
--  I’m looking to collaborate on ...
+-  I’m looking to collaborate on anything that will provide me a new learning experience.
 - 📫 How to reach me at jeffrey.r.rowe58@@gmail.com
 
 <!---
