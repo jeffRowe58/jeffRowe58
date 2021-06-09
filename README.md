@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Full Stack Web Development through CodeUp
 -  I’m looking to collaborate on anything that will provide me a new learning experience.
 - 📫 How to reach me at jeffrey.r.rowe58@@gmail.com
-
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=jeffRowe58.jeffRowe58)
+
+
 [![Github](https://img.shields.io/github/followers/jeffRowe?label=Follow&style=social)](https://github.com/jeffRowe58)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffRowe58&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffRowe58&theme=dark)
